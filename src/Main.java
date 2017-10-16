@@ -7,7 +7,7 @@ public class Main {
         a=in.nextFloat();
         System.out.printf("%f\n",a);
         System.out.printf("%2.7f\n",a);
-        // %2.7f\n的2是代表甚麼?
+        
 
 
 
